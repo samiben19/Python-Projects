@@ -1,0 +1,7 @@
+1;Sami;216;1;Clase;9;10.0
+5;Alexandra;214;1;Clase;9;7.0
+13;George;214;1;Clase;9;0.0
+14;Mihai;214;1;Clase;9;8.0
+15;Patricia;214;1;Clase;9;5.0
+18;Patricia;214;1;Clase;9;0.0
+19;Mihai;214;1;Clase;9;9.0

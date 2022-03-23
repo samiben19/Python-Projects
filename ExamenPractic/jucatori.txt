@@ -1,0 +1,10 @@
+Andrei;Andrei;210;Pivot;
+Popescu;Popescu;167;Extrema;
+Raul;Raul;164;Fundas;
+Sami;Sami;182;Fundas;
+Alex;Alex;190;Pivot;
+Alin;Alin;167;Extrema;
+Alin;Marcel;92;Fundas;
+Petru;Petru;222;Extrema;
+Robert;Robi;176;Fundas;
+Cristi;Cristian;198;Pivot;

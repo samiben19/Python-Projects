@@ -1,0 +1,1 @@
+[{"_Student__id_stud": 1, "_Student__nume": "Alex", "_Student__grup": 216}]
